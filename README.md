@@ -76,3 +76,5 @@ Before running this project make sure you have installed:
   ```pgsql
   URL | Date | CLS | TBT | Speed Index | LCP | FCP | Screen Type
   ```
+## License
+MIT
